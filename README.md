@@ -24,7 +24,6 @@ Dengan model prediksi ini, perusahaan dapat:
 - Memprediksi emisi CO₂e berdasarkan data operasional tambang  
 - Membantu strategi pembelian carbon credit  
 - Mengoptimalkan energi & produksi  
-- Menyediakan pipeline machine learning lengkap
 
 ## 🧠 4. Model Machine Learning
 Pipeline mencakup:
