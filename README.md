@@ -1,4 +1,4 @@
-# 🏭 Prediksi Emisi Tambang untuk Optimasi Carbon Credit  
+# 🏭 Prediksi Emisi Tambang dan estimasi kebutuhan Carbon Credit  
 Menggunakan Machine Learning (Python / Scikit-learn)
 
 ## 📌 1. Deskripsi Project
