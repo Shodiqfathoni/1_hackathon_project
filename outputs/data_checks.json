@@ -1,0 +1,22 @@
+{
+  "shape": [
+    5000,
+    6
+  ],
+  "columns": [
+    "produksi_ton",
+    "solar_liter",
+    "listrik_kWh",
+    "jam_operasi",
+    "alat_berat",
+    "emisi_CO2e"
+  ],
+  "na_percent": {
+    "produksi_ton": 4.9,
+    "solar_liter": 5.22,
+    "listrik_kWh": 4.62,
+    "jam_operasi": 4.76,
+    "alat_berat": 5.12,
+    "emisi_CO2e": 5.4
+  }
+}
